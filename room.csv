@@ -1,0 +1,101 @@
+﻿room_no,room_type,price_per_night,availability
+130,Presidential Suite,1546,Yes
+107,Presidential Suite,5432,Yes
+197,Presidential Suite,2577,No
+173,Presidential Suite,7536,Yes
+105,Single,1035,Yes
+114,Single,2740,Yes
+136,Deluxe,3978,No
+158,Deluxe,5797,Yes
+140,Presidential Suite,3995,No
+153,Deluxe,7248,Yes
+163,Deluxe,3650,Yes
+184,Suite,7055,No
+168,Deluxe,7825,No
+116,Double,6125,Yes
+142,Single,7768,Yes
+178,Suite,6426,Yes
+157,Presidential Suite,4868,Yes
+159,Double,3431,No
+160,Suite,2108,No
+152,Single,5326,Yes
+137,Deluxe,7752,Yes
+118,Presidential Suite,6094,No
+190,Double,5368,No
+126,Presidential Suite,4287,No
+112,Double,7464,No
+194,Single,1380,Yes
+149,Deluxe,1197,No
+200,Presidential Suite,4171,Yes
+104,Deluxe,1723,Yes
+129,Double,1840,Yes
+125,Presidential Suite,1981,No
+124,Suite,3491,No
+101,Deluxe,7549,No
+172,Deluxe,2165,Yes
+115,Single,1375,Yes
+193,Single,7233,No
+134,Double,6011,No
+195,Double,7553,No
+122,Deluxe,3611,No
+148,Suite,2504,Yes
+141,Deluxe,2087,Yes
+132,Suite,1011,No
+109,Presidential Suite,4717,Yes
+131,Double,6015,Yes
+139,Presidential Suite,5158,No
+119,Presidential Suite,3618,Yes
+167,Double,5717,No
+150,Deluxe,2715,Yes
+120,Deluxe,3900,Yes
+133,Presidential Suite,2813,Yes
+162,Single,2547,No
+188,Presidential Suite,1464,No
+147,Suite,2708,Yes
+110,Suite,1729,No
+192,Suite,2143,No
+183,Suite,6595,Yes
+144,Suite,4474,Yes
+196,Single,7648,Yes
+182,Deluxe,5826,No
+143,Suite,4539,No
+187,Double,5056,Yes
+181,Single,4867,No
+191,Double,2042,Yes
+171,Single,5163,Yes
+166,Suite,7189,Yes
+177,Single,3492,No
+156,Suite,4449,No
+179,Presidential Suite,5961,No
+146,Presidential Suite,4871,Yes
+102,Single,6078,Yes
+111,Deluxe,7658,Yes
+164,Double,5334,No
+151,Single,5849,No
+138,Double,2161,No
+198,Presidential Suite,7101,No
+165,Presidential Suite,5468,No
+176,Presidential Suite,4403,No
+154,Presidential Suite,3315,No
+117,Presidential Suite,6954,Yes
+106,Deluxe,2906,No
+170,Single,4880,Yes
+180,Deluxe,3634,Yes
+189,Single,4459,No
+175,Suite,4367,Yes
+145,Suite,6906,No
+127,Presidential Suite,3720,Yes
+108,Deluxe,4434,No
+135,Suite,4575,No
+174,Double,6433,Yes
+121,Presidential Suite,7470,No
+103,Presidential Suite,7608,No
+185,Presidential Suite,6093,No
+199,Double,2892,Yes
+128,Presidential Suite,3795,No
+186,Presidential Suite,1027,Yes
+113,Double,5985,Yes
+155,Deluxe,7340,No
+161,Presidential Suite,4684,No
+123,Suite,6201,No
+169,Double,3043,Yes
